@@ -1,0 +1,3 @@
+/home/edhoracio/Documents/Projects/zip-code/build/CMakeFiles/zip-code.dir
+/home/edhoracio/Documents/Projects/zip-code/build/CMakeFiles/edit_cache.dir
+/home/edhoracio/Documents/Projects/zip-code/build/CMakeFiles/rebuild_cache.dir
