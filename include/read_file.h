@@ -8,3 +8,13 @@
  */
 
 int print();
+
+
+/**!
+ * @brief Description of function
+ * 
+ * @param x, y
+ * @retval 
+ */
+
+double horacio_sum(double x, double y);
