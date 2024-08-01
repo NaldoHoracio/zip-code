@@ -10,7 +10,7 @@ o algoritmo de Huffman, algoritmo de compressão sem perda de dados.
 `Linguagem C`
 `CMake`
 
-## Instruções de execução
+## ⚙️ Instruções de execução
 
 - Clonar projeto
 - Utilização do `gcc` para rodar o compilador c/c++
