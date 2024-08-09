@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/zip-code.dir/src/main.c.o CMakeFiles/zip-code.dir/src/read_file.c.o -o zip-code 
+/usr/bin/cc -g CMakeFiles/zip-code.dir/src/main.c.o CMakeFiles/zip-code.dir/src/read_file.c.o -o zip-code 

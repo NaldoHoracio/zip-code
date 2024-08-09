@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/edhoracio/Documents/Projects/zip-code/build",
+  "command": "/usr/bin/cc  -I/home/edhoracio/Documents/Projects/zip-code/include -g -o CMakeFiles/zip-code.dir/src/main.c.o -c /home/edhoracio/Documents/Projects/zip-code/src/main.c",
+  "file": "/home/edhoracio/Documents/Projects/zip-code/src/main.c"
+},
+{
+  "directory": "/home/edhoracio/Documents/Projects/zip-code/build",
+  "command": "/usr/bin/cc  -I/home/edhoracio/Documents/Projects/zip-code/include -g -o CMakeFiles/zip-code.dir/src/read_file.c.o -c /home/edhoracio/Documents/Projects/zip-code/src/read_file.c",
+  "file": "/home/edhoracio/Documents/Projects/zip-code/src/read_file.c"
+}
+]

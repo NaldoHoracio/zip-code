@@ -6,5 +6,5 @@ C_DEFINES =
 
 C_INCLUDES = -I/home/edhoracio/Documents/Projects/zip-code/include
 
-C_FLAGS = 
+C_FLAGS = -g
 
