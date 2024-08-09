@@ -1,0 +1,16 @@
+Steps of Huffman
+
+A. Compress
+
+1. Ler um arquivo .TXT com o texto e determinar a frequência de cada caractere (Emesson - for 15-08)
+2. Criar uma lista ordenanda a partir do passo 1. (Ed - for 15-08)
+3. Construir a árvore. (Ed, Emesson)
+4. Montar o novo arquivo compresso seguindo o cabeçalho: file_name.huff
+
+D. Descompress
+
+1. Ler o arquivo .huff
+2. Checar o tamanho do lixo
+3. Checar o tamanho da árvore
+4. Montar a árvore
+5. Ler em pré-ordem e obter o arquivo original de volta
